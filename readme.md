@@ -15,3 +15,10 @@ gti checkout <branch-name>
 git branch <branch-name>
 gti checkout <branch-name>
 ```
+
+
+
+
+#delete branch
+```bash
+git push origin --delete <branch-name>
